@@ -3,7 +3,7 @@ title: Solution Yogi
 date: 2019-02-22
 description: Lever is minimal personal/bio/portfolio theme for Hugo.
 meta:
-  title: Hugo Lever - A minimal bio and projects theme
+  title: SolutionYogi - Personal Website
 lead:
   enabled: true
   heading: Hi I'm Solution Yogi, an AI writer, developer and consultant.
