@@ -5,16 +5,16 @@ url: "about"
 description: ""
 #image: "images/photos/about.jpg"
 ---
-- _15+ years of experience in crafting software solutions that solve complex business problems._
+- 20+ years of experience in crafting software solutions that solve complex business problems.
 
-- _I am a developer, not a programmer._
+- I am a developer, not a programmer.
 
-- _I believe that technology exists to serve the business and not the other way around._
+- I believe that technology exists to serve the business and not the other way around.
 
-- _I am experienced in all stages of the software development cycle including requirements gathering, analysis, design, development, documentation, implementation, testing, maintenance, user training, migration, and on-going support._
+- I am experienced in all stages of the software development cycle including requirements gathering, analysis, design, development, documentation, implementation, testing, maintenance, user training, migration, and on-going support.
 
-- _I believe that preventing problems is as important as solving them._
+- I believe that preventing problems is as important as solving them.
 
-- _Communication is the key to successful software projects. I bring tremendous value to the table with my excellent written and verbal communication skills._
+- Communication is the key to successful software projects.
 
-- _In top 2% of contributors on Stack Overflow._
+
