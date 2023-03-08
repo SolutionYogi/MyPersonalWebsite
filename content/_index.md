@@ -14,12 +14,6 @@ lead:
     avatar_image: images/avatar/avatar.jpg
     avatar_image_height: 120px
     avatar_image_width: 120px
-  buttons:
-  - button: 
-    url: https://calendly.com/zerostatic
-    text: I'm available for collaboration
-    external: true
-    dot: "#46e385"
 work:
   enabled: false
   heading: Featured Work
