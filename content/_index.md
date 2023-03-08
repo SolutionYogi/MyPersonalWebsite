@@ -21,7 +21,7 @@ lead:
     external: true
     dot: "#46e385"
 work:
-  enabled: true
+  enabled: false
   heading: Featured Work
   description: A collection of my projects, articles, notes, podcasts, talks and more
   show_view_all: false
