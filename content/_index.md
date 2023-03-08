@@ -6,9 +6,9 @@ meta:
   title: SolutionYogi - Personal Website
 lead:
   enabled: true
-  heading: Hi I'm Solution Yogi, an AI writer, developer and consultant.
+  heading: Hi, I am Jd.
   description: 'You don''t want technology. You want solutions to your business problems.
-    I can help. Meditating IT solutions for 15+ years. '
+    I can help. Meditating IT solutions for 20+ years. '
   show_social_media_icons: true
   avatar:
     avatar_image: images/avatar/avatar.jpg
