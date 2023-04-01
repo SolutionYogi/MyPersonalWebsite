@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Hugo Lever"
+title = "SolutionYogi"
 paginate = 3
 enableGitInfo = false
 pygmentsCodeFences = true
@@ -44,19 +44,17 @@ languageCode = "en-us"
     logo = "Inter"
 
   [params.logo]
-    logo_text = "Hugo Lever"
-    show_logo_text_on_desktop = true
-    show_logo_text_on_mobile = true
+   
     show_logo_image_on_desktop = true
     show_logo_image_on_mobile = true
-    logo_image_desktop = "images/logo/logo.svg"
-    logo_image_desktop_invert = "images/logo/logo-invert.svg"
-    logo_image_desktop_width = 32
-    logo_image_desktop_height = 32
-    logo_image_mobile = "images/logo/logo-mobile.svg"
-    logo_image_mobile_invert = "images/logo/logo-invert-mobile.svg"
-    logo_image_mobile_width = 32
-    logo_image_mobile_height = 32
+    logo_image_desktop = "images/logo/Black-with-canvas.svg"
+    logo_image_desktop_invert = "images/logo/White.svg"
+    logo_image_desktop_width = 150
+    logo_image_desktop_height = 150
+    logo_image_mobile = "images/logo/Black-with-canvas.svg"
+    logo_image_mobile_invert = "images/logo/White-with-canvas.svg"
+    logo_image_mobile_width = 75
+    logo_image_mobile_height = 75
 
   [params.dark_mode]
     enable_dark_mode = true
